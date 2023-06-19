@@ -1,0 +1,71 @@
+Country,Doc_num,Continent,Start date,GDP,Yearly budget
+Argentina,9,South_America,2001,449.7,10
+Armenia,2,Europe,2002,13.7,0
+Australia,32,Oceania,1991,1488,55
+Austria,9,Europe,1999,455.6,3
+Belgium,22,Europe,1984,540.2,44
+Brazil,11,South_America,2018,1449,5
+Bulgaria,2,Europe,2020,69.2,3
+Canada,14,North_America,2000,1646,24
+Chile,10,South_America,2018,247.9,7
+China,22,East_Asia,1981,16640,0
+Colombia,28,South_America,2013,303.5,19
+Costa Rica,7,Africa,2018,64.6,6
+Croatia,1,Europe,2020,63.2,0
+Cyprus,2,Europe,2014,24.8,0
+Czech Republic,8,Europe,2011,256.1,12
+Denmark,11,Europe,2014,324.4,17
+Egypt,7,Africa,2019,362.8,0
+Estonia,5,Europe,2018,31.2,1
+European Union,59,Europe,1991,0,70
+Finland,12,Europe,2017,284.5,13
+France,34,Europe,2010,2715,69
+Germany,31,Europe,2015,3861,66
+Greece,3,Europe,2002,204.9,2
+Hungary,14,Europe,2015,170.6,10
+Iceland,4,Europe,2018,25.7,4
+India,22,Middle_East,2015,2700,18
+Ireland,7,Europe,2005,1060,7
+Israel,7,Middle_East,2018,377.6,12
+Italy,10,Europe,1969,395.1,14
+Japan,21,East_Asia,2003,2003,17
+Kazakhstan,7,Asia,2016,5378,9
+Kenya,5,Africa,2013,184.4,0
+Korea,13,East_Asia,2017,95.5,8
+Latvia,4,Europe,2019,1645,15
+Lithuania,4,Europe,2017,34.9,5
+Luxembourg,6,Europe,2014,58.5,14
+Malta,5,Europe,2014,72.5,0
+Mauritius,2,Africa,2018,15.7,0
+Mexico,5,South_America,2018,14.3,8
+Morocco,4,Africa,2017,1046,4
+Netherlands,11,Europe,2016,122.9,24
+New Zealand,8,Oceania,2013,912.8,7
+Nigeria,2,Africa,2020,207.4,0
+Norway,17,Europe,1980,448.1,25
+Peru,8,South_America,2013,398.8,5
+Poland,4,Europe,2012,227.1,5
+Portugal,11,Europe,2017,592.1,11
+Romania,3,Europe,2019,247.9,6
+Russian Federation,11,Europe,2015,261.8,15
+Rwanda,6,Africa,2021,10.5,6
+Saudi Arabia,5,Middle_East,2019,1685,0
+Serbia,17,Europe,2011,53.6,32
+Singapore,24,Asia,2017,337.9,2
+Slovak Republic,2,Europe,2005,105.9,4
+Slovenia,6,Europe,1992,55.8,15
+South Africa,3,Africa,2016,283.4,0
+Spain,16,Europe,1994,1416,26
+Sweden,13,Europe,2016,527.6,24
+Switzerland,5,Europe,2016,710.9,0
+Thailand,5,Asia,2017,515.9,0
+Tunisia,6,Africa,2004,40.8,3
+Türkiye,31,Middle_East,2011,717.9,42
+Uganda,3,Africa,2019,39.8,0
+Ukraine,1,Europe,2021,153.6,0
+United Arab Emirates,8,Middle_East,2016,421.1,1
+United Kingdom,56,Europe,2000,2631,64
+United States,74,North_America,1999,22675,32
+Uruguay,3,South_America,2019,58.2,3
+Uzbekistan,3,Asia,2020,64.2,0
+Viet Nam,6,Asia,2017,340.6,2

@@ -1,0 +1,850 @@
+Country,Start date,Yearly budget range,Has funding from private sector ?,Is evaluated ?,AI Principle(s),Continent
+Luxembourg,2016,3,0,0,1,Europe
+Luxembourg,2014,2,0,1,1,Europe
+Luxembourg,2016,2,0,0,1,Europe
+Poland,2016,4,0,0,0,Europe
+Poland,2012,1,0,0,0,Europe
+Finland,2017,0,0,0,1,Europe
+Austria,2017,0,0,1,1,Europe
+European Union,1991,0,0,0,0,Europe
+European Union,2014,5,0,0,0,Europe
+Slovenia,2021,6,1,0,1,Europe
+Belgium,2017,2,0,0,0,Europe
+Belgium,2017,2,0,0,0,Europe
+Belgium,2017,0,0,0,0,Europe
+Canada,2017,4,0,1,1,North_America
+Austria,2017,2,0,0,1,Europe
+Netherlands,2016,4,0,0,1,Europe
+Canada,2017,6,0,0,1,North_America
+Argentina,2001,0,0,0,1,South_America
+Australia,2016,5,0,1,1,Oceania
+Belgium,1984,7,0,1,0,Europe
+Belgium,1986,3,0,0,0,Europe
+Japan,2012,5,0,1,1,East_Asia
+Japan,2016,5,0,1,1,East_Asia
+Argentina,2018,1,0,0,1,South_America
+Germany,2017,2,0,0,1,Europe
+Germany,2017,5,0,0,1,Europe
+New Zealand,2017,1,0,0,0,Oceania
+Malta,2014,0,0,0,1,Europe
+Luxembourg,2016,3,0,0,1,Europe
+United Kingdom,2017,0,0,0,1,Europe
+United Kingdom,2017,6,0,1,1,Europe
+United Kingdom,2017,0,0,0,1,Europe
+Hungary,2015,5,0,0,1,Europe
+Greece,2002,0,0,0,1,Europe
+France,2017,0,0,0,1,Europe
+Morocco,2017,0,0,0,1,Africa
+Spain,2015,0,0,0,1,Europe
+Spain,2016,5,0,0,1,Europe
+Korea,2017,0,0,0,1,East_Asia
+Morocco,2017,2,0,0,1,Africa
+European Union,2013,2,0,0,0,Europe
+Korea,2018,0,0,0,1,East_Asia
+China,1981,0,0,0,1,East_Asia
+China,2017,0,0,0,1,East_Asia
+Korea,2017,0,0,0,1,East_Asia
+Russian Federation,2015,6,0,0,0,Europe
+Belgium,2016,5,0,1,0,Europe
+European Union,2018,0,0,0,0,Europe
+European Union,2018,0,0,0,1,Europe
+European Union,2018,0,0,0,0,Europe
+European Union,2018,7,0,1,1,Europe
+Belgium,2017,1,0,0,0,Europe
+Italy,2019,3,0,0,1,Europe
+European Union,2019,0,0,0,0,Europe
+European Union,2020,7,0,0,0,Europe
+Czech Republic,2019,0,0,0,1,Europe
+Austria,2015,1,0,0,1,Europe
+Germany,2019,2,0,0,1,Europe
+Germany,2018,6,0,1,1,Europe
+European Union,2018,0,0,0,0,Europe
+Germany,2017,3,0,0,1,Europe
+United Kingdom,2018,7,0,1,1,Europe
+Czech Republic,2019,0,0,0,1,Europe
+Ireland,2007,2,0,0,1,Europe
+Germany,2016,0,0,0,1,Europe
+Germany,2020,3,0,0,1,Europe
+European Union,2018,0,0,0,0,Europe
+United Kingdom,2019,1,0,0,1,Europe
+Sweden,2019,2,0,0,1,Europe
+United Kingdom,2018,2,0,0,1,Europe
+Canada,2019,0,0,0,1,North_America
+Finland,2019,0,0,0,1,Europe
+United Kingdom,2013,4,0,1,1,Europe
+Finland,2019,5,0,0,1,Europe
+Finland,2018,1,0,0,1,Europe
+Finland,2018,3,0,0,1,Europe
+Italy,2018,0,0,0,1,Europe
+Italy,2020,0,0,0,1,Europe
+Lithuania,2019,2,0,0,1,Europe
+Austria,2019,0,0,0,1,Europe
+Belgium,2019,1,0,0,1,Europe
+Canada,2016,1,0,0,1,North_America
+Denmark,2019,5,0,0,1,Europe
+United Kingdom,2015,4,0,0,1,Europe
+Iceland,2018,0,0,0,1,Europe
+Mexico,2018,0,0,0,1,South_America
+Poland,2020,0,0,0,1,Europe
+Portugal,2019,2,0,0,1,Europe
+Spain,2020,1,0,0,1,Europe
+Brazil,2018,0,0,0,1,South_America
+China,2017,0,0,0,1,East_Asia
+United States,2019,0,0,0,1,North_America
+United States,2018,0,0,0,1,North_America
+United States,2018,0,0,0,1,North_America
+United States,2019,0,0,0,1,North_America
+Korea,2019,0,0,0,1,East_Asia
+United States,2019,0,0,0,1,North_America
+Korea,2019,0,0,0,1,East_Asia
+Korea,2018,0,0,0,1,East_Asia
+United Kingdom,2018,7,0,0,1,Europe
+United Kingdom,2018,3,0,0,1,Europe
+United Kingdom,2018,0,0,0,1,Europe
+United Kingdom,2018,5,0,0,1,Europe
+Morocco,2019,2,0,0,1,Africa
+United States,2019,0,0,0,1,North_America
+Luxembourg,2019,1,0,0,1,Europe
+United States,2017,0,0,0,1,North_America
+Slovenia,2019,3,0,0,1,Europe
+Japan,2019,0,0,0,1,East_Asia
+Netherlands,2018,0,0,0,1,Europe
+Japan,2017,1,0,0,1,East_Asia
+Japan,2019,1,0,0,1,East_Asia
+Japan,2016,1,0,0,1,East_Asia
+Australia,2018,1,0,0,1,Oceania
+Australia,2017,1,0,0,1,Oceania
+Israel,2019,2,0,0,1,Middle_East
+Germany,2015,4,0,0,1,Europe
+Hungary,2018,1,0,0,1,Europe
+Czech Republic,2018,6,0,1,1,Europe
+Singapore,2018,0,0,0,1,Asia
+Singapore,2018,2,0,0,1,Asia
+Singapore,2017,0,0,0,1,Asia
+Singapore,2018,0,0,0,0,Asia
+Singapore,2018,0,0,0,1,Asia
+Singapore,2017,0,0,0,1,Asia
+Australia,2019,2,0,0,1,Oceania
+European Union,2019,5,0,0,1,Europe
+European Union,2018,0,0,0,1,Europe
+Australia,2018,2,0,0,1,Oceania
+Korea,2018,0,0,0,1,East_Asia
+Canada,2019,1,0,0,1,North_America
+Sweden,2019,2,0,0,1,Europe
+Canada,2016,2,0,0,1,North_America
+European Union,2019,0,0,0,0,Europe
+China,2019,0,0,0,1,East_Asia
+China,2019,0,0,0,1,East_Asia
+Singapore,2019,0,0,0,0,Asia
+Finland,2018,4,0,0,1,Europe
+United States,2019,0,0,0,1,North_America
+China,2019,0,0,0,1,East_Asia
+China,2016,0,0,0,1,East_Asia
+Australia,2019,1,0,0,1,Oceania
+Australia,2018,1,0,0,1,Oceania
+United States,2019,0,0,0,1,North_America
+Canada,2019,0,0,0,1,North_America
+Switzerland,2020,0,0,0,1,Europe
+United States,2021,0,0,0,1,North_America
+Singapore,2018,0,0,0,1,Asia
+Portugal,2018,1,0,0,0,Europe
+Canada,2019,0,0,0,1,North_America
+Canada,2019,3,0,0,1,North_America
+Singapore,2017,0,0,0,0,Asia
+Singapore,2018,0,0,0,1,Asia
+European Union,2019,0,0,0,0,Europe
+Norway,1991,2,0,0,0,Europe
+Singapore,2018,0,0,0,0,Asia
+Singapore,2018,0,0,0,0,Asia
+Russian Federation,2018,7,0,1,1,Europe
+Canada,2019,3,0,0,1,North_America
+Mexico,2018,0,0,0,1,South_America
+India,2017,0,0,0,1,Middle_East
+Australia,2019,3,0,0,1,Oceania
+Australia,2018,2,0,0,1,Oceania
+Denmark,2018,2,0,0,1,Europe
+France,2018,0,0,1,1,Europe
+European Union,2019,2,0,0,0,Europe
+United Kingdom,2019,0,0,0,1,Europe
+Norway,1980,3,0,1,0,Europe
+Norway,2016,0,0,0,0,Europe
+United Kingdom,2019,0,0,0,1,Europe
+Norway,1990,2,0,0,0,Europe
+Latvia,2019,4,0,0,1,Europe
+Chile,2019,1,0,0,1,South_America
+Cyprus,2019,0,0,0,1,Europe
+Romania,2019,0,0,0,0,Europe
+United States,2018,0,0,0,1,North_America
+Russian Federation,2019,0,0,0,0,Europe
+Belgium,2019,4,0,0,1,Europe
+Belgium,2019,2,0,0,1,Europe
+Ireland,2019,0,0,0,1,Europe
+Russian Federation,2019,0,0,0,1,Europe
+Belgium,2018,4,0,0,1,Europe
+Italy,2019,4,0,0,1,Europe
+Russian Federation,2019,2,0,0,0,Europe
+United States,2018,0,0,1,1,North_America
+Russian Federation,2019,0,0,0,0,Europe
+United States,2019,0,0,0,1,North_America
+United States,2018,0,0,0,1,North_America
+United States,2019,0,0,0,1,North_America
+United States,2017,0,0,0,1,North_America
+United States,2019,0,0,0,1,North_America
+United States,2018,6,0,0,1,North_America
+United States,2018,2,0,0,1,North_America
+United States,2019,0,0,0,1,North_America
+India,2019,3,0,1,0,Middle_East
+India,2018,4,0,1,1,Middle_East
+India,2019,4,0,1,0,Middle_East
+India,2019,4,0,1,0,Middle_East
+India,2017,3,0,1,1,Middle_East
+Viet Nam,2018,0,0,0,1,Asia
+Sweden,2018,1,0,0,1,Europe
+Sweden,2017,5,0,1,1,Europe
+Sweden,2018,2,0,0,1,Europe
+Singapore,2018,0,0,0,1,Asia
+Malta,2019,0,0,1,1,Europe
+Malta,2019,0,0,0,1,Europe
+United States,2018,0,0,0,1,North_America
+Switzerland,2017,0,0,0,1,Europe
+United States,2019,0,0,0,1,North_America
+United States,2018,0,0,0,1,North_America
+United States,2019,0,0,0,1,North_America
+Mexico,2018,5,0,0,1,South_America
+Colombia,2018,2,0,0,1,South_America
+Hungary,2019,1,0,0,1,Europe
+Hungary,2019,1,0,0,1,Europe
+Hungary,2018,2,0,0,1,Europe
+Korea,2018,6,0,0,1,East_Asia
+Slovenia,1992,0,0,0,1,Europe
+United States,2018,0,0,0,1,North_America
+United States,2014,0,0,0,1,North_America
+United States,2011,0,0,0,1,North_America
+United States,2011,4,0,0,1,North_America
+United States,2016,0,0,0,1,North_America
+United States,2013,0,0,0,1,North_America
+Greece,2019,2,0,0,1,Europe
+Israel,2020,0,0,0,1,Middle_East
+Kazakhstan,2016,0,0,0,1,Asia
+Kazakhstan,2016,2,0,0,1,Asia
+Korea,2019,0,0,0,1,East_Asia
+Kazakhstan,2018,6,0,0,1,Asia
+Belgium,1986,3,0,0,0,Europe
+Belgium,2019,0,0,0,0,Europe
+France,2018,7,1,0,1,Europe
+Costa Rica,2018,1,0,0,1,Africa
+United Arab Emirates,2019,0,0,0,1,Middle_East
+Kazakhstan,2016,1,0,0,1,Asia
+Kazakhstan,2019,0,0,0,1,Asia
+United States,2016,0,0,0,1,North_America
+United Kingdom,2018,4,0,0,1,Europe
+Estonia,2019,1,0,0,1,Europe
+Malta,2019,0,0,0,1,Europe
+Netherlands,2019,5,0,0,1,Europe
+United Kingdom,2000,1,0,0,1,Europe
+Netherlands,2019,7,0,0,1,Europe
+European Union,2020,0,0,0,0,Europe
+Türkiye,2019,2,0,0,1,Middle_East
+European Union,2019,0,0,0,0,Europe
+Portugal,2019,0,0,0,1,Europe
+New Zealand,2019,1,0,0,1,Oceania
+New Zealand,2018,0,0,0,0,Oceania
+New Zealand,2019,0,0,0,1,Oceania
+Slovak Republic,2005,4,0,0,1,Europe
+Slovak Republic,2019,0,0,0,1,Europe
+Germany,2019,1,0,0,1,Europe
+Germany,2018,2,0,0,1,Europe
+Germany,2020,3,0,1,1,Europe
+Costa Rica,2018,1,0,0,1,Africa
+Costa Rica,2018,1,0,0,1,Africa
+Costa Rica,2018,1,0,0,1,Africa
+Costa Rica,2019,1,0,0,1,Africa
+Costa Rica,2019,1,0,0,1,Africa
+Chile,2018,0,0,0,1,South_America
+Saudi Arabia,2019,0,0,0,0,Middle_East
+Saudi Arabia,2019,0,0,0,1,Middle_East
+Saudi Arabia,2019,0,0,0,0,Middle_East
+New Zealand,2019,1,0,0,0,Oceania
+Brazil,2019,2,0,0,1,South_America
+Thailand,2017,0,0,1,1,Asia
+Belgium,2019,4,0,0,0,Europe
+Thailand,2017,0,0,0,1,Asia
+Thailand,2019,0,0,0,1,Asia
+Türkiye,2012,6,0,0,1,Middle_East
+Türkiye,2019,0,0,0,1,Middle_East
+Türkiye,2013,0,0,0,1,Middle_East
+Türkiye,2016,0,0,0,1,Middle_East
+Türkiye,2019,0,0,0,1,Middle_East
+Iceland,2018,0,0,0,1,Europe
+Thailand,2021,0,0,0,1,Asia
+Finland,2019,0,0,0,1,Europe
+South Africa,2016,0,0,0,1,Africa
+Australia,2016,5,0,0,1,Oceania
+European Union,2019,7,0,0,0,Europe
+European Union,2019,3,0,0,0,Europe
+United Kingdom,2018,5,0,0,1,Europe
+Israel,2018,4,0,0,1,Middle_East
+European Union,2014,4,0,0,0,Europe
+European Union,2019,7,0,0,0,Europe
+European Union,2014,5,0,0,0,Europe
+European Union,2016,5,0,0,0,Europe
+United Kingdom,2019,0,0,0,1,Europe
+United Arab Emirates,2017,0,0,0,1,Middle_East
+United Arab Emirates,2016,0,0,1,1,Middle_East
+France,2019,0,0,0,1,Europe
+Hungary,2020,0,0,0,1,Europe
+Slovenia,2020,2,0,0,1,Europe
+United Arab Emirates,2019,0,0,0,1,Middle_East
+Serbia,2020,3,0,1,1,Europe
+Egypt,2020,0,0,0,1,Africa
+Egypt,2019,0,0,0,1,Africa
+Egypt,2019,0,0,0,1,Africa
+Egypt,2019,0,0,0,1,Africa
+Egypt,2019,0,0,0,1,Africa
+Uruguay,2019,1,0,0,1,South_America
+Uruguay,2019,1,0,0,0,South_America
+Cyprus,2014,0,0,0,1,Europe
+Denmark,2017,0,0,0,1,Europe
+Denmark,2018,3,0,0,1,Europe
+Denmark,2018,1,0,0,1,Europe
+Denmark,2014,0,0,0,1,Europe
+France,2019,0,0,0,1,Europe
+Hungary,2020,0,0,0,1,Europe
+Bulgaria,2020,3,0,0,1,Europe
+Croatia,2020,0,0,0,1,Europe
+Japan,2019,1,0,0,1,East_Asia
+France,2019,2,0,0,1,Europe
+Serbia,2020,1,0,0,1,Europe
+Russian Federation,2020,0,0,0,0,Europe
+Russian Federation,2020,0,0,0,0,Europe
+Germany,2015,2,0,0,1,Europe
+European Union,2020,0,0,0,1,Europe
+European Union,2020,0,0,0,0,Europe
+Singapore,2020,0,0,1,1,Asia
+Denmark,2017,0,0,0,1,Europe
+Germany,2018,0,0,0,1,Europe
+Germany,2019,4,0,0,1,Europe
+Türkiye,2020,0,0,0,1,Middle_East
+Korea,2020,2,0,0,1,East_Asia
+European Union,2019,0,0,0,1,Europe
+Serbia,2020,2,0,0,1,Europe
+Sweden,2018,5,0,1,1,Europe
+Sweden,2019,3,0,1,1,Europe
+Sweden,2019,1,0,0,1,Europe
+Sweden,2019,1,0,0,1,Europe
+Sweden,2019,1,0,0,1,Europe
+Uruguay,2019,1,0,0,1,South_America
+Serbia,2020,1,0,0,1,Europe
+Argentina,2020,1,0,1,1,South_America
+Lithuania,2020,0,0,0,1,Europe
+Lithuania,2020,3,0,1,1,Europe
+Mexico,2018,0,0,0,1,South_America
+United Kingdom,2018,0,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+United Kingdom,2020,0,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+Brazil,2019,0,0,0,1,South_America
+United States,2020,0,0,0,1,North_America
+United Kingdom,2020,0,0,0,1,Europe
+Portugal,2020,0,0,0,1,Europe
+United Kingdom,2019,4,0,0,1,Europe
+Colombia,2020,1,0,0,1,South_America
+Colombia,2020,2,0,0,1,South_America
+Colombia,2019,1,0,0,1,South_America
+Colombia,2020,2,0,0,1,South_America
+Colombia,2018,1,0,0,1,South_America
+Colombia,2019,2,0,0,1,South_America
+Brazil,2019,1,0,1,1,South_America
+Chile,2020,1,0,0,1,South_America
+Chile,2020,2,0,0,1,South_America
+Chile,2020,1,0,0,1,South_America
+Czech Republic,2020,0,0,0,1,Europe
+European Union,2018,0,0,1,0,Europe
+Colombia,2020,1,0,0,1,South_America
+Denmark,2019,0,0,0,1,Europe
+Colombia,2018,1,0,0,1,South_America
+Germany,2019,2,0,0,1,Europe
+Germany,2019,1,0,0,1,Europe
+United States,2020,6,0,0,1,North_America
+United States,2020,0,0,0,1,North_America
+United States,2020,0,0,0,1,North_America
+Czech Republic,2014,2,0,1,1,Europe
+Denmark,2020,0,0,0,1,Europe
+Denmark,2020,0,0,0,1,Europe
+Estonia,2018,0,0,0,1,Europe
+Germany,2019,3,0,0,1,Europe
+Germany,2018,0,0,0,1,Europe
+Germany,2018,4,0,0,1,Europe
+Germany,2020,3,0,0,1,Europe
+Germany,2019,1,0,0,1,Europe
+Germany,2020,3,0,0,1,Europe
+Germany,2020,0,0,0,1,Europe
+Germany,2020,0,0,0,1,Europe
+Germany,2016,6,0,0,1,Europe
+France,2019,3,0,0,1,Europe
+Hungary,2020,0,0,0,1,Europe
+Hungary,2020,0,0,0,1,Europe
+Hungary,2020,0,0,0,1,Europe
+Austria,2015,0,0,0,1,Europe
+Brazil,2020,2,1,0,1,South_America
+Hungary,2020,0,0,0,1,Europe
+France,2020,1,0,0,1,Europe
+Hungary,2020,0,0,0,1,Europe
+Hungary,2020,0,0,0,1,Europe
+Türkiye,2019,3,0,1,1,Middle_East
+United Arab Emirates,2019,0,0,0,1,Middle_East
+Australia,2020,2,0,0,1,Oceania
+Australia,2020,2,0,0,1,Oceania
+Greece,2020,0,0,0,1,Europe
+Malta,2018,0,0,0,0,Europe
+Hungary,2020,0,0,0,1,Europe
+United Arab Emirates,2019,1,0,0,1,Middle_East
+Singapore,2020,0,0,0,1,Asia
+New Zealand,2020,0,0,0,1,Oceania
+Chile,2020,0,0,0,1,South_America
+Belgium,2016,0,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+Finland,2020,0,0,0,1,Europe
+Lithuania,2017,0,0,0,1,Europe
+Netherlands,2019,0,0,0,1,Europe
+Norway,2017,0,0,0,0,Europe
+Czech Republic,2020,1,0,0,1,Europe
+Germany,2017,0,0,0,1,Europe
+Austria,2016,0,0,0,1,Europe
+Austria,2019,0,0,0,1,Europe
+Austria,2018,0,0,0,1,Europe
+Spain,2015,0,0,0,1,Europe
+Spain,2016,0,0,0,1,Europe
+United Kingdom,2018,0,0,0,1,Europe
+United Kingdom,2020,0,0,0,1,Europe
+Italy,1969,0,0,0,1,Europe
+Estonia,2020,0,0,0,1,Europe
+New Zealand,2013,4,0,0,0,Oceania
+Australia,2017,0,0,0,1,Oceania
+Australia,2019,0,0,0,1,Oceania
+Brazil,2020,0,0,0,1,South_America
+Australia,2018,0,0,0,1,Oceania
+Canada,2020,0,0,0,1,North_America
+Australia,2019,0,0,0,1,Oceania
+Australia,2018,2,0,0,1,Oceania
+Viet Nam,2018,2,0,0,1,Asia
+Iceland,2020,3,0,0,1,Europe
+Iceland,2021,1,0,0,1,Europe
+Canada,2019,0,0,0,1,North_America
+China,2018,0,0,0,1,East_Asia
+China,2018,0,0,0,1,East_Asia
+Mexico,2019,3,0,0,1,South_America
+India,2018,0,0,0,0,Middle_East
+India,2015,0,0,0,0,Middle_East
+India,2020,0,0,0,0,Middle_East
+Japan,2020,0,0,0,1,East_Asia
+Kazakhstan,2017,0,0,0,1,Asia
+New Zealand,2018,0,0,0,0,Oceania
+Russian Federation,2018,0,0,0,0,Europe
+Singapore,2017,0,0,0,1,Asia
+South Africa,2019,0,0,0,1,Africa
+South Africa,2019,0,0,0,1,Africa
+United Kingdom,2019,0,0,0,1,Europe
+United Kingdom,2018,0,0,0,1,Europe
+United States,2020,0,0,0,1,North_America
+Viet Nam,2019,0,0,0,1,Asia
+European Union,2021,0,0,0,1,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+Finland,2020,0,0,0,1,Europe
+Netherlands,2020,0,0,0,1,Europe
+United States,2019,0,0,0,1,North_America
+Argentina,2020,1,0,0,1,South_America
+Argentina,2020,1,0,0,1,South_America
+Argentina,2020,2,0,0,1,South_America
+Argentina,2020,1,0,0,1,South_America
+Egypt,2020,0,0,0,1,Africa
+Egypt,2019,0,0,0,1,Africa
+Belgium,2019,0,0,0,0,Europe
+Belgium,2017,0,0,0,1,Europe
+Belgium,2019,3,0,0,0,Europe
+United States,2020,0,0,0,1,North_America
+European Union,2017,0,0,0,0,Europe
+European Union,2019,0,0,0,0,Europe
+Romania,2020,5,0,0,0,Europe
+Romania,2019,1,0,0,1,Europe
+European Union,2017,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2020,3,0,0,0,Europe
+European Union,2016,0,0,0,0,Europe
+Finland,2020,0,0,0,1,Europe
+Italy,2020,3,0,0,1,Europe
+Luxembourg,2020,3,0,0,1,Europe
+Czech Republic,2011,3,0,0,1,Europe
+Bulgaria,2020,0,0,0,1,Europe
+Portugal,2020,0,0,0,1,Europe
+Finland,2020,0,0,0,1,Europe
+Latvia,2020,4,0,0,1,Europe
+Saudi Arabia,2020,0,0,0,1,Middle_East
+Argentina,2019,3,0,0,1,South_America
+Netherlands,2020,5,0,0,1,Europe
+Netherlands,2020,3,0,0,1,Europe
+Japan,2019,0,0,0,1,East_Asia
+India,2019,0,0,0,1,Middle_East
+Türkiye,2020,0,0,0,1,Middle_East
+United States,2019,0,0,0,1,North_America
+Russian Federation,2020,0,0,0,0,Europe
+Australia,2021,5,0,0,1,Oceania
+Australia,2018,3,0,0,1,Oceania
+Spain,1994,3,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+European Union,2020,0,0,0,0,Europe
+Viet Nam,2020,0,0,0,1,Asia
+Viet Nam,2017,0,0,0,1,Asia
+Norway,2019,0,0,0,0,Europe
+United Kingdom,2020,0,0,0,1,Europe
+United Kingdom,2020,0,0,0,1,Europe
+United States,2020,0,0,0,1,North_America
+Argentina,2018,0,0,0,1,South_America
+Germany,2020,2,0,0,1,Europe
+European Union,2020,0,0,0,0,Europe
+United Kingdom,2020,2,0,0,1,Europe
+Colombia,2020,0,0,0,1,South_America
+United Kingdom,2018,0,0,0,1,Europe
+Norway,2020,2,0,0,1,Europe
+Czech Republic,2017,0,0,0,1,Europe
+United States,2020,0,0,0,1,North_America
+United Kingdom,2020,0,0,0,1,Europe
+Peru,2019,1,0,0,0,South_America
+Kenya,2018,0,0,0,1,Africa
+Peru,2020,2,0,0,0,South_America
+Peru,2019,1,0,0,1,South_America
+United States,2020,0,0,0,1,North_America
+Switzerland,2020,0,0,0,1,Europe
+Norway,2020,2,0,0,0,Europe
+Norway,2020,0,0,0,0,Europe
+Norway,2017,5,0,0,0,Europe
+Colombia,2021,0,0,0,1,South_America
+Colombia,2020,0,0,0,1,South_America
+Colombia,2020,0,0,0,1,South_America
+Japan,2019,0,0,0,1,East_Asia
+Japan,2020,3,0,0,1,East_Asia
+European Union,2020,0,0,0,0,Europe
+Singapore,2020,0,0,0,1,Asia
+Singapore,2020,0,0,0,1,Asia
+European Union,2020,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2019,0,0,0,0,Europe
+European Union,2019,0,0,0,1,Europe
+European Union,2019,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+European Union,2020,0,0,0,0,Europe
+Spain,2019,0,0,0,1,Europe
+United Kingdom,2020,0,0,0,1,Europe
+United Kingdom,2020,0,0,0,1,Europe
+United Kingdom,2018,1,0,0,1,Europe
+United Kingdom,2021,0,0,0,1,Europe
+United Kingdom,2020,2,0,0,1,Europe
+United Kingdom,2019,1,0,0,1,Europe
+United Kingdom,2019,0,0,0,1,Europe
+Russian Federation,2019,0,0,0,0,Europe
+Türkiye,2020,0,0,0,1,Middle_East
+Türkiye,2020,0,0,0,1,Middle_East
+Türkiye,2020,0,0,0,1,Middle_East
+Estonia,2020,0,0,0,1,Europe
+Türkiye,2019,2,0,0,1,Middle_East
+Türkiye,2019,0,0,0,1,Middle_East
+Colombia,2021,0,0,0,1,South_America
+Colombia,2021,0,0,0,1,South_America
+Colombia,2021,0,0,0,1,South_America
+Estonia,2020,0,0,0,1,Europe
+Norway,2019,5,0,0,1,Europe
+Norway,2014,2,0,1,0,Europe
+Chile,2019,0,0,0,1,South_America
+Chile,2018,0,0,0,1,South_America
+Chile,2021,1,0,0,1,South_America
+Korea,2020,0,0,0,1,East_Asia
+European Union,2021,0,0,0,0,Europe
+European Union,2018,2,0,0,0,Europe
+European Union,2019,1,0,0,1,Europe
+European Union,2020,0,0,1,0,Europe
+European Union,2021,2,0,0,0,Europe
+Colombia,2021,0,0,0,1,South_America
+Colombia,2013,1,0,1,1,South_America
+Colombia,2020,0,0,0,1,South_America
+Colombia,2021,0,0,0,1,South_America
+Brazil,2021,0,0,0,1,South_America
+Ireland,2018,0,0,0,1,Europe
+Ireland,2021,0,0,0,1,Europe
+Ireland,2019,0,0,0,1,Europe
+Ireland,2005,0,0,0,1,Europe
+Netherlands,2021,0,0,0,1,Europe
+Japan,2021,0,0,0,1,East_Asia
+Japan,2021,0,0,0,1,East_Asia
+Netherlands,2021,0,0,0,1,Europe
+Spain,2021,0,1,0,1,Europe
+Spain,2019,0,0,1,1,Europe
+Spain,2021,7,0,0,1,Europe
+Spain,2021,7,0,0,1,Europe
+Spain,2021,0,0,0,1,Europe
+Portugal,2018,3,0,0,1,Europe
+Tunisia,2021,0,0,0,1,Africa
+Tunisia,2018,3,1,0,1,Africa
+Tunisia,2019,0,0,0,1,Africa
+Tunisia,2004,0,0,0,1,Africa
+Tunisia,2021,0,0,0,1,Africa
+Tunisia,2021,0,0,0,1,Africa
+Kenya,2019,0,0,0,1,Africa
+Morocco,2021,0,0,0,1,Africa
+Kenya,2019,0,0,0,1,Africa
+Kenya,2020,0,1,0,1,Africa
+Kenya,2013,0,0,0,1,Africa
+Australia,2021,3,0,0,1,Oceania
+Australia,2021,0,0,0,1,Oceania
+Colombia,2021,0,0,0,1,South_America
+Peru,2021,0,0,0,1,South_America
+Peru,2020,0,0,0,1,South_America
+Peru,2020,0,0,0,1,South_America
+Costa Rica,2020,0,0,0,1,Africa
+United States,2021,0,0,0,1,North_America
+United States,2021,0,0,0,1,North_America
+Türkiye,2021,2,0,0,1,Middle_East
+European Union,2021,0,0,0,1,Europe
+Türkiye,2017,0,0,0,1,Middle_East
+Türkiye,2020,0,0,0,1,Middle_East
+Australia,2021,2,0,0,1,Oceania
+Australia,2021,2,0,0,1,Oceania
+Australia,2021,2,0,0,1,Oceania
+Australia,2018,3,0,0,1,Oceania
+Australia,2018,1,0,0,1,Oceania
+Australia,2018,2,0,0,1,Oceania
+Japan,2021,0,0,0,1,East_Asia
+Japan,2019,0,0,0,1,East_Asia
+Japan,2020,0,0,0,1,East_Asia
+Japan,2020,0,0,0,1,East_Asia
+Japan,2021,0,0,0,1,East_Asia
+Japan,2021,0,0,0,1,East_Asia
+Peru,2015,1,0,0,1,South_America
+Viet Nam,2021,0,0,0,1,Asia
+China,2021,0,0,0,1,East_Asia
+Colombia,2020,1,0,0,1,South_America
+Colombia,2021,1,1,0,1,South_America
+Colombia,2020,0,0,0,1,South_America
+Colombia,2021,1,0,0,1,South_America
+Colombia,2020,1,0,0,1,South_America
+Colombia,2020,1,0,0,1,South_America
+Colombia,2020,0,0,0,1,South_America
+China,2020,0,0,0,1,East_Asia
+China,2021,0,0,0,1,East_Asia
+China,2019,0,0,0,1,East_Asia
+China,2017,0,0,0,1,East_Asia
+Germany,2020,0,0,0,1,Europe
+India,2020,0,0,0,1,Middle_East
+Serbia,2011,2,0,0,1,Europe
+Singapore,2019,0,0,0,1,Asia
+Singapore,2020,0,0,0,1,Asia
+Kazakhstan,2018,0,0,0,1,Asia
+United Arab Emirates,2018,0,0,0,1,Middle_East
+United Arab Emirates,2021,0,0,0,1,Middle_East
+Saudi Arabia,2021,0,0,0,1,Middle_East
+China,2021,0,0,0,1,East_Asia
+United States,2021,0,0,0,1,North_America
+United Kingdom,2021,0,0,0,1,Europe
+India,2021,0,0,0,1,Middle_East
+Brazil,2021,0,0,0,1,South_America
+Slovenia,2022,3,0,0,1,Europe
+France,2016,0,0,0,1,Europe
+France,2019,0,0,0,1,Europe
+France,2019,5,0,0,1,Europe
+France,2018,0,0,0,1,Europe
+China,2019,0,0,0,1,East_Asia
+Italy,2022,0,0,0,1,Europe
+Ukraine,2021,0,0,0,1,Europe
+India,2021,0,0,0,1,Middle_East
+India,2021,0,0,0,1,Middle_East
+India,2021,0,1,0,1,Middle_East
+India,2021,0,1,0,1,Middle_East
+India,2021,0,0,0,1,Middle_East
+India,2021,0,0,0,1,Middle_East
+India,2021,0,1,0,1,Middle_East
+India,2021,0,1,0,1,Middle_East
+India,2021,0,1,0,1,Middle_East
+India,2021,0,1,0,1,Middle_East
+Brazil,2018,0,0,0,1,South_America
+United States,2021,7,0,0,1,North_America
+Australia,2022,0,0,0,1,Oceania
+United States,2021,0,0,0,1,North_America
+United States,2020,0,0,0,1,North_America
+United States,2019,0,0,0,1,North_America
+United States,2000,0,0,0,1,North_America
+Singapore,2021,0,0,0,1,Asia
+United Kingdom,2021,0,0,0,1,Europe
+United Kingdom,2020,0,1,0,1,Europe
+United Kingdom,2020,0,0,0,1,Europe
+Germany,2021,0,0,0,1,Europe
+China,2021,0,0,0,1,East_Asia
+Australia,2021,0,0,0,1,Oceania
+United States,2021,0,0,0,1,North_America
+Netherlands,2018,0,0,0,1,Europe
+United States,2022,7,0,0,1,North_America
+Spain,2022,3,0,0,1,Europe
+United States,2021,0,0,0,1,North_America
+Spain,2020,0,0,0,1,Europe
+United Kingdom,2020,0,0,0,1,Europe
+Switzerland,2021,0,0,0,1,Europe
+France,2019,2,0,0,1,Europe
+United States,2018,0,0,0,1,North_America
+France,2019,2,0,0,1,Europe
+France,2019,6,0,0,1,Europe
+France,2022,3,0,0,1,Europe
+France,2022,0,0,0,1,Europe
+France,2019,2,0,0,1,Europe
+France,2019,0,0,0,1,Europe
+France,2021,6,1,0,1,Europe
+France,2018,3,1,0,1,Europe
+France,2019,0,0,0,1,Europe
+France,2019,3,1,0,1,Europe
+France,2022,3,1,0,1,Europe
+France,2020,0,0,0,1,Europe
+France,2022,5,1,0,1,Europe
+France,2022,0,0,0,1,Europe
+France,2021,0,0,0,1,Europe
+France,2022,6,0,0,1,Europe
+France,2022,1,0,0,1,Europe
+France,2021,2,0,0,1,Europe
+China,2021,0,0,0,1,East_Asia
+China,2021,0,0,0,1,East_Asia
+China,2021,0,0,0,1,East_Asia
+China,2021,0,0,0,1,East_Asia
+Thailand,2022,0,0,0,1,Asia
+Slovenia,2021,1,0,0,1,Europe
+Norway,2021,0,0,0,1,Europe
+Norway,2021,0,0,0,1,Europe
+Norway,2020,2,0,0,1,Europe
+Israel,2021,0,0,0,1,Middle_East
+Türkiye,2017,3,0,0,1,Middle_East
+Türkiye,2020,3,0,0,1,Middle_East
+Türkiye,2018,0,0,0,1,Middle_East
+Türkiye,2021,3,1,0,1,Middle_East
+Türkiye,2018,3,1,0,1,Middle_East
+Türkiye,2019,0,0,0,1,Middle_East
+Türkiye,2011,3,0,0,1,Middle_East
+Türkiye,2020,6,1,1,1,Middle_East
+Türkiye,2022,0,0,0,1,Middle_East
+Türkiye,2021,6,0,0,1,Middle_East
+Türkiye,2020,0,0,0,1,Middle_East
+Türkiye,2020,0,1,0,1,Middle_East
+Türkiye,2021,0,0,0,1,Middle_East
+Japan,2022,0,0,0,1,East_Asia
+Singapore,2021,0,0,0,1,Asia
+Türkiye,2021,0,0,0,1,Middle_East
+Singapore,2021,0,0,0,1,Asia
+Germany,2019,4,0,0,1,Europe
+Korea,2021,0,0,0,1,East_Asia
+Korea,2021,0,0,0,1,East_Asia
+Latvia,2021,1,0,0,1,Europe
+Latvia,2021,6,1,0,1,Europe
+Sweden,2021,1,0,0,1,Europe
+Sweden,2016,0,0,0,1,Europe
+Sweden,2021,0,1,0,1,Europe
+China,2022,0,0,0,1,East_Asia
+Chile,2021,1,0,0,1,South_America
+Israel,2018,0,0,0,1,Middle_East
+Israel,2020,0,0,0,1,Middle_East
+Singapore,2022,0,0,0,1,Asia
+Italy,2021,0,0,0,1,Europe
+Italy,2022,4,0,0,1,Europe
+Japan,2003,0,0,0,1,East_Asia
+Portugal,2022,0,0,0,1,Europe
+Brazil,2021,0,0,0,1,South_America
+Brazil,2022,0,1,0,1,South_America
+Portugal,2021,0,0,0,1,Europe
+Portugal,2022,3,0,0,1,Europe
+Portugal,2017,2,0,0,1,Europe
+European Union,2022,0,0,0,1,Europe
+European Union,2022,3,0,0,1,Europe
+United Kingdom,2022,0,0,0,1,Europe
+United States,2022,0,0,0,1,North_America
+United Kingdom,2022,0,0,0,1,Europe
+United States,2022,0,0,0,1,North_America
+United States,2021,0,0,0,1,North_America
+United States,2019,0,0,0,1,North_America
+United States,2016,0,0,0,1,North_America
+United States,2018,0,0,0,1,North_America
+United States,2018,0,0,0,1,North_America
+United States,2018,0,0,0,1,North_America
+United States,2020,0,0,0,1,North_America
+United States,2020,0,0,0,1,North_America
+United States,2021,0,0,0,1,North_America
+United States,2022,0,0,0,1,North_America
+United Kingdom,2022,0,0,0,1,Europe
+France,2022,0,0,0,1,Europe
+United States,2022,0,0,0,1,North_America
+Serbia,2017,3,0,1,1,Europe
+Serbia,2021,4,0,1,1,Europe
+Serbia,2017,1,0,0,1,Europe
+Serbia,2021,1,0,0,1,Europe
+Rwanda,2021,0,0,0,1,Africa
+Rwanda,2022,0,0,0,1,Africa
+Rwanda,2021,0,0,0,1,Africa
+Rwanda,2021,6,1,0,1,Africa
+Uganda,2019,0,0,0,1,Africa
+Uganda,2019,0,0,0,1,Africa
+Uganda,2019,0,0,0,1,Africa
+United States,2021,0,0,0,1,North_America
+Rwanda,2021,0,0,0,1,Africa
+Serbia,2019,1,1,0,1,Europe
+Mauritius,2018,0,0,0,1,Africa
+Mauritius,2019,0,0,0,1,Africa
+Nigeria,2020,0,0,0,1,Africa
+Nigeria,2022,0,0,0,1,Africa
+Serbia,2022,1,0,0,1,Europe
+Rwanda,2021,0,0,0,1,Africa
+Armenia,2021,0,0,0,1,Europe
+Uzbekistan,2021,0,0,0,1,Asia
+Uzbekistan,2020,0,0,0,1,Asia
+Uzbekistan,2021,0,0,0,1,Asia
+Armenia,2002,0,0,0,1,Europe
+Serbia,2017,2,0,1,1,Europe
+Serbia,2022,3,0,0,1,Europe
+Serbia,2021,2,0,0,1,Europe
+Serbia,2018,1,0,1,1,Europe
+Serbia,2020,0,0,0,1,Europe
+Serbia,2022,4,0,0,1,Europe
+United States,2022,0,0,0,1,North_America
+United States,2022,0,0,0,1,North_America
+United States,2001,0,0,0,1,North_America
+United States,1999,0,0,0,1,North_America
+United States,2020,0,0,0,1,North_America
+United States,2020,0,0,0,1,North_America
+Canada,2022,0,0,0,1,North_America
+United Kingdom,2022,0,0,0,1,Europe
+United Kingdom,2022,0,0,0,1,Europe
+Spain,2022,0,0,0,0,Europe
+Spain,2021,0,0,0,1,Europe
+Australia,2022,0,0,0,1,Oceania
+Norway,2018,0,0,0,0,Europe
+Norway,2022,0,0,0,0,Europe
+Germany,2018,0,0,0,0,Europe
+Austria,1999,0,0,0,0,Europe
+Portugal,2020,0,0,0,1,Europe
+Poland,2020,0,0,0,1,Europe
+Switzerland,2016,0,0,0,1,Europe
+Belgium,2022,0,0,0,1,Europe
+France,2020,0,0,0,1,Europe
+Italy,2020,0,0,0,1,Europe
+Finland,2020,0,0,0,1,Europe
+United Kingdom,2005,5,0,0,0,Europe
+Belgium,2006,0,0,0,0,Europe
+Ireland,2012,5,0,1,1,Europe
+Peru,2013,0,0,0,0,South_America
+Australia,1991,0,0,1,1,Oceania
+Australia,2016,3,0,1,1,Oceania
+Canada,2000,4,0,1,1,North_America
+France,2010,7,0,1,1,Europe
+Belgium,2010,2,0,0,0,Europe
+Denmark,2014,6,0,1,1,Europe
+Belgium,1984,1,0,0,0,Europe
+Israel,2019,6,0,0,1,Middle_East
